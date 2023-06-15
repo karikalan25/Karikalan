@@ -1,0 +1,20 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "install": "electron-rebuild",
+      "start": "electron ."
+    },
+    "keywords": [],
+    "author": "Deepak",
+    "license": "ISC",
+    "devDependencies": {
+      "electron": "^1.4.1",
+      "electron-rebuild": "^1.2.1"
+    },
+    "dependencies": {
+      "ffi": "^2.1.0"
+    }
+  }
